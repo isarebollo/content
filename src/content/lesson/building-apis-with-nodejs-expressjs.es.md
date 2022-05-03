@@ -30,7 +30,7 @@ Echa un vistazo a las URL, ellas siguen un patrón. Después de un tiempo, los e
 
 ## Ahora hablemos sobre Expressjs
 
-Expressjs es la librería que nos permite construir un servidor web API de una forma rápida, minimalista y flexible utilizando nodejs.  El primer paso para utilizarla es realizando la instalación en tu proyecto, para esto en tu terminal debes ejecutar:
+Expressjs es la librería que nos permite construir un servidor web API de una forma rápida, minimalista y flexible utilizando node.js  El primer paso para utilizarla es realizando la instalación en tu proyecto, para esto en tu terminal debes ejecutar:
 
 ```
 $ npm install express --save
